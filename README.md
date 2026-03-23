@@ -37,7 +37,7 @@ No files are written to your disk. No data is stored. The Python script runs ent
 4. Go to **APIs & Services → Credentials → Create Credentials → API Key**
 5. Copy the key
 
-> **Tip:** It is recommended to restrict your API key to the Cloud Translation API only, and optionally to your IP address, to prevent unauthorized use.
+> **Tip:** It is recommended to restrict your API key to the Cloud Translation API and Speech to Text API only, and optionally to your IP address, to prevent unauthorized use.
 
 ### 2. Add Your API Key to the Script
 
